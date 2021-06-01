@@ -1,0 +1,48 @@
+step  5000  ,hits  3089  ,rank_sum  2626277
+
+step  10000  ,hits  6112  ,rank_sum  5258830
+
+step  15000  ,hits  9275  ,rank_sum  8030375
+
+step  20000  ,hits  12280  ,rank_sum  10525007
+
+step  25000  ,hits  15466  ,rank_sum  12944086
+
+step  30000  ,hits  18628  ,rank_sum  15515102
+
+step  35000  ,hits  21665  ,rank_sum  17928335
+
+step  40000  ,hits  24741  ,rank_sum  20620405
+
+step  45000  ,hits  27867  ,rank_sum  23052795
+
+step  50000  ,hits  31015  ,rank_sum  25541013
+
+step  55000  ,hits  34129  ,rank_sum  28176738
+
+entity hits@10:  0.31038919266645226
+entity meanrank:  254.84654060368032
+relation step  5000  ,hits  3949  ,rank_sum  407726
+
+relation step  10000  ,hits  7908  ,rank_sum  793868
+
+relation step  15000  ,hits  11855  ,rank_sum  1192041
+
+relation step  20000  ,hits  15788  ,rank_sum  1610030
+
+relation step  25000  ,hits  19734  ,rank_sum  2030294
+
+relation step  30000  ,hits  23696  ,rank_sum  2441653
+
+relation step  35000  ,hits  27640  ,rank_sum  2855284
+
+relation step  40000  ,hits  31607  ,rank_sum  3235751
+
+relation step  45000  ,hits  35596  ,rank_sum  3637527
+
+relation step  50000  ,hits  39587  ,rank_sum  4024240
+
+relation step  55000  ,hits  43547  ,rank_sum  4433488
+
+relation hits@10:  0.7920637876453759
+relation meanrank:  80.62267440876234
